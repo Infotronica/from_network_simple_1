@@ -27,7 +27,7 @@
       <item>
        <widget class="QLineEdit" name="lineEdit">
         <property name="text">
-         <string>http://www.mi-server-de-pruebas.com/etc/from_network_simple_1/file.txt</string>
+         <string>http://www.mi-server-de-pruebas.com/etc/file.txt</string>
         </property>
        </widget>
       </item>
